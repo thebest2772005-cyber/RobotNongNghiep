@@ -1,0 +1,24 @@
+# Virtual environments and symlinks
+.venv
+.venv/
+.venv-yolo
+.venv-yolo/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Output snapshots, logs, and events
+output/
+output_qr/
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+.DS_Store
