@@ -1,0 +1,22 @@
+# STM32CubeIDE Build output
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Eclipse metadata / cache
+.metadata/
+*.bak
